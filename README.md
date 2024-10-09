@@ -56,5 +56,5 @@ Make sure you have the following installed on your machine:
 
 2. Start the frontend:
     ```bash
-    cd angularapp1.clint
+    cd angularapp1.client
     ng serve
