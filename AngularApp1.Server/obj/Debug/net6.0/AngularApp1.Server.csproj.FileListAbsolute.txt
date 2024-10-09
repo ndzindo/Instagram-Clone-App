@@ -1,0 +1,690 @@
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\Desktop\v13\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\Desktop\v14\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.exe
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.deps.json
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.runtimeconfig.json
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.AssemblyInfo.cs
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularA.7BAE9056.Up2Date
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\refint\AngularApp1.Server.dll
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.pdb
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\AngularApp1.Server.genruntimeconfig.cache
+C:\Users\nedim\Desktop\v16\AngularApp1\AngularApp1.Server\obj\Debug\net6.0\ref\AngularApp1.Server.dll

@@ -1,0 +1,37 @@
+
+<div class="profile-container">
+  <h2>{{ user?.username }}'s Profile</h2>
+
+  <div class="profile-pic-container">
+
+    <img [src]="user?.profilePictureUrl" alt="Profile Picture" class="profile-pic">
+
+
+    <input type="text" [(ngModel)]="profilePictureUrl" placeholder="Enter new profile picture URL">
+  </div>
+
+  <div class="settings">
+    <label>
+      <input type="checkbox" [(ngModel)]="isDarkTheme">
+      Dark Theme
+    </label>
+    <label>
+      <input type="checkbox" [(ngModel)]="notificationsEnabled">
+      Enable Notifications
+    </label>
+
+    <button (click)="updateProfile()">Save</button>
+  </div>
+  
+  <div class="last-three-posts">
+    <h3>Last 3 Posts</h3>
+    <div *ngFor="let post of lastThreePosts" class="post">
+      <img [src]="post.postPictureUrl" alt="Post Image" class="post-image" />
+      <div class="post-details">
+        <p><strong>Created on:</strong> {{ post.creationDate | date:'dd/MM/yyyy' }}</p>
+        <p>{{ post.description }}</p>
+        <p>Likes: {{ post.numberOfLikes }} | Comments: {{ post.numberOfComments }}</p>
+      </div>
+    </div>
+  </div>
+</div>

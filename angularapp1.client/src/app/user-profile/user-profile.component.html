@@ -1,0 +1,18 @@
+
+<div class="profile-container">
+    <div class="profile-header">
+      <img [src]="user?.profilePictureUrl" alt="{{ user?.username }}" class="profile-picture" />
+      <h2>{{ user?.username }}'s Profile</h2>
+    </div>
+  
+    <h3>Last 3 Posts</h3>
+    <div *ngFor="let post of userPosts" class="post">
+      <img [src]="post.postPictureUrl" alt="Post Image" class="post-image" />
+      <div class="post-details">
+        <p><strong>Created on:</strong> {{ post.creationDate | date:'dd/MM/yyyy' }}</p>
+        <p>{{ post.description }}</p>
+        <p>Likes: {{ post.numberOfLikes }} | Comments: {{ post.numberOfComments }}</p>
+      </div>
+    </div>
+  </div>
+  

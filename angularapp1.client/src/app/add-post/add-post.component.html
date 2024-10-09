@@ -1,0 +1,57 @@
+<div class="create-post-container">
+    <h2>Create New Post</h2>
+    
+    <form (ngSubmit)="onSave()" #postForm="ngForm">
+        <div class="form-group">
+            <label for="postPictureUrl">Post Picture URL</label>
+            <input
+              type="url"
+              id="postPictureUrl"
+              name="postPictureUrl"
+              class="form-control"
+              [(ngModel)]="postPictureUrl"
+              required
+              placeholder="Enter the URL of the picture"
+            />
+          </div>
+      
+      <div class="form-group">
+        <label for="description">Description</label>
+        <textarea
+          id="description"
+          name="description"
+          class="form-control"
+          [(ngModel)]="postDescription"
+          required
+          placeholder="Enter the post description"
+          rows="3"
+        ></textarea>
+      </div>
+      
+    
+      
+  
+     
+      <div class="form-group">
+        <label for="preview">Image Preview</label>
+        <img
+          *ngIf="postPictureUrl"
+          [src]="postPictureUrl"
+          alt="Post Image Preview"
+          class="img-thumbnail"
+          style="max-width: 100%; height: auto;"
+        />
+      </div>
+  
+      
+      <div class="form-group">
+        <button type="submit" class="btn btn-primary" [disabled]="!postForm.valid">
+          Save
+        </button>
+        <button type="button" class="btn btn-secondary" (click)="onCancel()">
+          Cancel
+        </button>
+      </div>
+    </form>
+  </div>
+  

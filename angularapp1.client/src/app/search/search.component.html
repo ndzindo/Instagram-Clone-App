@@ -1,0 +1,25 @@
+<div class="search-container">
+   
+    <div class="search-bar">
+      <input
+        type="text"
+        [(ngModel)]="searchQuery"
+        (input)="onSearch()"
+        placeholder="Search by username..."
+        class="search-input"
+      />
+    </div>
+  
+    
+    <div *ngIf="users.length > 0" class="results-container">
+      <div *ngFor="let user of users" class="user-card">
+        <img [src]="user.profilePictureUrl" alt="Profile Picture" class="user-profile-pic" />
+        <div class="user-info">
+          <p class="username">{{ user.username }}</p>
+          <a [routerLink]="['/user-profile', user.id]">View Profile</a>
+        </div>
+      </div>
+    </div>
+    <p *ngIf="users.length === 0" class="no-results">No users found.</p>
+  </div>
+  

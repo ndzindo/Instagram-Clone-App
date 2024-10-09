@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\nedim\\Desktop\\v16\\AngularApp1\\AngularApp1.Server\\..\\angularapp1.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

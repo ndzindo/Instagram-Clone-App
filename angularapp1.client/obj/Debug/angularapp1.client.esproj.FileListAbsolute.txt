@@ -1,0 +1,10 @@
+C:\Users\nedim\source\repos\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\RADI_v7\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\RADI_v7.0 - Copy\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\Radi_v9\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\Radi_v10\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\Radi_v12\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\v13\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\v13_v4\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\v14\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\nedim\Desktop\v16\AngularApp1\angularapp1.client\obj\Debug\angularapp1.client.esproj.CoreCompileInputs.cache

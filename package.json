@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@angular/cdk": "^18.2.1",
+    "@angular/material": "^18.2.1",
+    "@auth0/angular-jwt": "^5.2.0",
+    "@ngrx/effects": "^18.0.2",
+    "@ngrx/store": "^18.0.2",
+    "jwt-decode": "^4.0.0"
+  }
+}
