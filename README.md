@@ -45,15 +45,16 @@ Make sure you have the following installed on your machine:
     ```bash
     dotnet ef database update
 
+
 ### Starting Application
 
     
-2. Start the backend server:
+1. Start the backend server:
     ```bash
     cd AngularApp1.Server
     dotnet run
 
-3. Start the frontend:
+2. Start the frontend:
     ```bash
     cd angularapp1.clint
     ng serve
